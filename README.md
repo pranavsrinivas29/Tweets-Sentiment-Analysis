@@ -1,4 +1,4 @@
-# Sentiment Classificaton on Twiter data
+# Sentiment Classificaton on Twitter data
 This approach combines two powerful techniques in machine learning: ensemble learning and hyperparameter optimization.
 
 # CNN Model
